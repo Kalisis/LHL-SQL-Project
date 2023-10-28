@@ -1,8 +1,8 @@
 What issues will you address by cleaning the data?
 
-As stated in the instructions, the all_sessions.productPrice column and the analytics.unit_price column both required dividing by 1000000.
+--As stated in the instructions, the all_sessions.productPrice column and the analytics.unit_price column both required dividing by 1000000.
 
-Replaced all instances of "not available in demo dataset" from all_sessions.city with "N/A"
+--Replaced all instances of "not available in demo dataset" from all_sessions.city with "N/A"
 
 
 
