@@ -9,7 +9,9 @@ Queries:
 Below, provide the SQL queries you used to clean your data.
 
 --Dividing the prices by 1000000--
+
     UPDATE all_sessions
     SET "productPrice" = "productPrice" / 1000000
+    
     UPDATE analytics
     SET unit_price = unit_price / 1000000
